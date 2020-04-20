@@ -4,7 +4,7 @@
   "accent_color": "blue",
   "header": {
     "title": "Creative Clarity",
-    "has_nav": true
+    "has_nav": false
   },
   "footer": {
     "content": "&copy; Creative Clarity Inc. All rights reserved.",
