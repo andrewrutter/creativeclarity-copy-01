@@ -3,14 +3,14 @@ title: How to be productive working from home
 date: 2020-04-20T14:32:07-04:00
 thumb_img_path: images/9.jpg
 content_img_path: images/9.jpg
-excerpt: Interdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi quis
-  commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus aenean
-  vel elit scelerisque mauris pellentesque.
+excerpt: Many people around the globe are now finding themselves working remotely
+  which can be daunting. At Creative Clarity, we have operated as a virtual office
+  for many years and wanted to take a few minutes to share some lessons learned.
 template: post
 subtitle: ''
 
 ---
-Many people around the globe are now finding themselves working remotely which can be daunting. At Creative Clarity, we have operated as a virtual office for many years and wanted to take a few minutes to share a few lessons learned.
+Many people around the globe are now finding themselves working remotely which can be daunting. At Creative Clarity, we have operated as a virtual office for many years and wanted to take a few minutes to share some lessons learned.
 
 ## Communication
 
