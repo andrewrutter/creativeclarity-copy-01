@@ -3,6 +3,12 @@ module.exports = {
     siteMetadata: require('./site-metadata.json'),
     plugins: [
         `gatsby-plugin-react-helmet`,
+        {
+          resolve: `gatsby-plugin-google-analytics`,
+          options: {
+              trackingId: "UA-13088066-4",
+          }
+        },
         `gatsby-source-data`,
         {
             resolve: `gatsby-source-filesystem`,
@@ -27,7 +33,7 @@ module.exports = {
         {
             resolve: `gatsby-remark-page-creator`,
             options: {
-                
+
             }
         },
         {
