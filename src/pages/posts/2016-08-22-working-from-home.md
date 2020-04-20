@@ -1,19 +1,34 @@
 ---
-title: The Advantages and Disadvantages of Working from Home
-date: '2016-08-22'
+title: How to be productive working from home
+date: 2020-04-20T14:32:07-04:00
 thumb_img_path: images/9.jpg
 content_img_path: images/9.jpg
-excerpt: >-
-  Interdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi quis
-  commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus
-  aenean vel elit scelerisque mauris pellentesque.
+excerpt: Interdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi quis
+  commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus aenean
+  vel elit scelerisque mauris pellentesque.
 template: post
+subtitle: ''
+
 ---
+Many people around the globe are now finding themselves working remotely which can be daunting. At Creative Clarity, we have operated as a virtual office for many years and wanted to take a few minutes to share a few lessons learned.
 
-Interdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi quis commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus aenean vel elit scelerisque mauris pellentesque. Porttitor massa id neque aliquam vestibulum morbi blandit cursus. Vitae aliquet nec ullamcorper sit. Gravida arcu ac tortor dignissim convallis aenean. Quisque sagittis purus sit amet volutpat consequat mauris nunc congue. Est ultricies integer quis auctor. Commodo quis imperdiet massa tincidunt nunc pulvinar sapien. Vel risus commodo viverra maecenas accumsan lacus. Donec adipiscing tristique risus nec feugiat in fermentum. Habitasse platea dictumst quisque sagittis purus sit. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Id leo in vitae turpis massa sed. Auctor elit sed vulputate mi sit. Gravida arcu ac tortor dignissim convallis aenean et.
+## Communication
 
-## Types Of Work
+It is essential that teams find ways to communicate efficiently when distanced. Video conferencing platforms such as WebEx and Zoom have supporting features which make this a breeze. That said, it is worth making an investment in a high quality microphone and speaker system for you laptop. Some popular options in this category include
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Auctor augue mauris augue neque gravida in fermentum et. Eget mi proin sed libero enim sed faucibus turpis in. Semper auctor neque vitae tempus. Nibh nisl condimentum id venenatis a condimentum vitae sapien. Et malesuada fames ac turpis egestas sed tempus urna. Tristique magna sit amet purus gravida. Lobortis elementum nibh tellus molestie. Natoque penatibus et magnis dis parturient montes nascetur. Lacus sed viverra tellus in hac habitasse platea. Duis ultricies lacus sed turpis tincidunt id aliquet risus. Vitae congue eu consequat ac felis donec et. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Lobortis mattis aliquam faucibus purus in massa tempor nec feugiat. In nibh mauris cursus mattis molestie. Proin libero nunc consequat interdum varius sit amet. Molestie at elementum eu facilisis sed odio morbi quis commodo.
+* Apple Air Pods
+* Blue USB microphones
 
-Vitae congue mauris rhoncus aenean vel elit scelerisque mauris. Ac tincidunt vitae semper quis lectus nulla at volutpat diam. Eget arcu dictum varius duis at consectetur lorem. Nec ullamcorper sit amet risus nullam eget felis. Laoreet non curabitur gravida arcu ac tortor. Cursus metus aliquam eleifend mi in. Faucibus vitae aliquet nec ullamcorper sit amet. Consectetur a erat nam at lectus urna. Porttitor eget dolor morbi non arcu risus quis varius quam. Condimentum mattis pellentesque id nibh tortor id aliquet. Augue neque gravida in fermentum..
+## Collaboration
+
+There are a great many people who feel that being proximate is essential for efficient collaboration. While this can be true in certain industries and markets, there are a number of tools which provide for Some tools which we have found work very well for remote collaboration are:
+
+* Google Docs
+* Lucid Charts
+* Figma
+
+## Consideration
+
+Being considerate to family and other remote team members is a third key aspect to telecommuting success. It is all to easy to lose sight of a standard business day when we can easily pickup a laptop at any time. This can lead to issues where days blend to nights and weekdays blend to weekends. When working from home try to set reasonable boundaries for working and non working time. Be mindful that a standard 9-5 day may no longer be the optimal schedule for you or for your team. As such, be open to flexibility and ensure that adequate overlap can be provided to allow for any needed collaboration.
+
+In a similar vain, it is essential to setup some location boundaries. If possible, designate a room or area within the house as your office space. This will help both in controlling the desire to drop in and chat during working time as well as giving you a clear boundary between work and home.
