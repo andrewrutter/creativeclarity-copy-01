@@ -1,7 +1,7 @@
 ---
 title: Elf On The Shelf
 subtitle: Digital Implementation
-date: 2019-04-30T00:00:00-04:00
+date: 2019-01-16T00:00:00-05:00
 thumb_img_path: "/images/eots-transparent.png"
 content_img_path: "/images/eots-transparent.png"
 template: project
