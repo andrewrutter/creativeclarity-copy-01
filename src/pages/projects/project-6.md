@@ -2,8 +2,8 @@
 title: TAG
 subtitle: ''
 date: 2018-12-18
-thumb_img_path: "/images/tag-logo.png"
-content_img_path: "/images/tag-logo.png"
+thumb_img_path: "/images/tag-transparent.png"
+content_img_path: "/images/tag-transparent.png"
 template: project
 
 ---
