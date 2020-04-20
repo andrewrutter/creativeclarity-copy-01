@@ -17,8 +17,8 @@ sections:
   section_id: customers
   component: PortfolioBlock
   subtitle: We have been fortunate to work with some awesome customers
-  layout_style: mosaic
-  num_projects_displayed: 6
+  layout_style: tiles
+  num_projects_displayed: 4
   view_all_text: View All
   view_all_url: portfolio/index.html
 - type: servicesblock
@@ -58,7 +58,7 @@ sections:
       vel posuere justo laoreet.
 - type: postsblock
   template: postsblock
-  title: Reccent Thoughts
+  title: Recent Thoughts
   section_id: latest-posts
   component: PostsBlock
   subtitle: Some of our recent musings on technology and teamwork
@@ -71,7 +71,7 @@ sections:
   title: Contact Us
   section_id: contact
   component: ContactBlock
-  subtitle: An optional subtitle of the section
+  subtitle: ''
 menus:
   main:
     title: Home
