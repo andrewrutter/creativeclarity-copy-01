@@ -1,18 +1,18 @@
 ---
 title: About Us
-subtitle: This is a short page about us and our work.
-img_path: images/about.jpg
+subtitle: We have had over a decade to perfect perfection.
+img_path: "/images/Depositphotos_258873504_xl-2015.jpg"
 menus:
   main:
     title: About
     weight: 4
 template: page
+
 ---
+Creative Clarity Inc is a software services company based in Atlanta, GA. We are experts in the delivery of custom web and mobile applications for companies of all sizes. We have built marketing websites, web applications, games and apps reaching millions of people worldwide.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+> A lack of clarity could put the brakes on any journey to success - _Steve Maraboli_
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+Founded in 2008, the company has 15 full time employees working both in the US and India. We employ a unique service delivery model we like to refer to as “Anyshore” which combines local project management, architecture and leadership with a team of geographically dispersed IT professionals. 
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
-
-*Thank You for reading!*
+Remote implementation is managed through small development pods which operate within proven guardrails for quality and communication. This model allows additional developers to be engaged from a rich pool of talent at short notice and has been instrumental in the ability for Creative Clarity to meet the needs of a variety of different customers including Accenture and IHG.
