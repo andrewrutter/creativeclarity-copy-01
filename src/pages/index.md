@@ -11,6 +11,8 @@ sections:
 
     We are experts in the delivery of custom web and mobile applications for companies of all sizes, from startups to Fortune 500.
 
+    We are passionate about technology and what it can do for our clients.
+
     We have built marketing websites, web applications, games and mobile apps reaching millions of people worldwide.
 
     When can we talk about you?
