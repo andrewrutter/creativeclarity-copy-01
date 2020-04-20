@@ -9,6 +9,8 @@ template: project
 ---
 # Elf On The Shelf
 
+We provided key assistance to the team at CCAB for a number of digital initiatives.
+
 ## Services Provided
 
 * Architecture
