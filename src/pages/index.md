@@ -64,7 +64,7 @@ sections:
   subtitle: Some of our recent musings on technology and teamwork
   num_posts_displayed: 2
   actions:
-  - label: View Blog
+  - label: View More
     url: blog/index.html
 - type: contactblock
   template: contactblock
