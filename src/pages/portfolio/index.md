@@ -1,10 +1,12 @@
 ---
-title: Portfolio
-subtitle: This is an optional subtitle for the portfolio page.
-layout_style: mosaic
+title: Our Customers
+subtitle: Over the past decade, we have been lucky to have worked with some of the
+  best companies in the world.
+layout_style: tiles
 menus:
   main:
     title: Portfolio
     weight: 2
 template: portfolio
+
 ---
