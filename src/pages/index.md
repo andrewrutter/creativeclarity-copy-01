@@ -7,6 +7,8 @@ sections:
   section_id: hero
   component: HeroBlock
   content: |-
+    ![](/images/logo-1.png "Creative Clarity Logo")
+
     We a software services company headquartered in Atlanta, GA.
 
     We are experts in the delivery of custom web and mobile applications for companies of all sizes, from startups to Fortune 500.
@@ -15,7 +17,7 @@ sections:
 
     We have built marketing websites, web applications, games and mobile apps reaching millions of people worldwide.
 
-    When can we [talk](/contact) about you?
+    When can we  about you?
 - type: portfolioblock
   template: portfolioblock
   title: Our Customers
