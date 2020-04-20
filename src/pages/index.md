@@ -6,11 +6,14 @@ sections:
   title: Welcome to Creative Clarity Inc.
   section_id: hero
   component: HeroBlock
-  content: "Creative Clarity Inc is a software services company based in Atlanta,
-    GA.\n\nWe are experts in the delivery of custom web and mobile applications for
-    companies of all sizes. \n\nWe have built marketing websites, web applications,
-    games and apps reaching millions of people worldwide.\n\nWhen can we talk about
-    your needs?"
+  content: |-
+    We a software services company headquartered in Atlanta, GA.
+
+    We are experts in the delivery of custom web and mobile applications for companies of all sizes, from startups to Fortune 500.
+
+    We have built marketing websites, web applications, games and mobile apps reaching millions of people worldwide.
+
+    When can we talk about you?
 - type: portfolioblock
   template: portfolioblock
   title: Our Customers
