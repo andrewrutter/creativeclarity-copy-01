@@ -1,7 +1,7 @@
 ---
 title: Accenture
 subtitle: Multiple Web Projects
-date: 2019-05-10T00:00:00-04:00
+date: 2019-01-01T00:00:00-05:00
 thumb_img_path: "/images/accenture-transparent.png"
 content_img_path: "/images/accenture-transparent.png"
 template: project
