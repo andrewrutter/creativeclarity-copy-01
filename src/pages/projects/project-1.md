@@ -9,7 +9,7 @@ template: project
 ---
 # Accenture
 
-We were thrilled to work with the Accenture team on several projects related to the launch of the Chase Center in San Francisco.  The initial marketing website was taken from design to launch in less than two months.
+We were thrilled to work with the Accenture team on several projects related to the launch of the Chase Center in San Francisco.  The initial marketing website was taken from design to launch in less than two months. 
 
 ## Services Provided
 
