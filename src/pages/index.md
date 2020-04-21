@@ -36,18 +36,24 @@ sections:
   component: ServicesBlock
   subtitle: We are more than just websites
   serviceslist:
-  - title: Marketing and Content Management
-    content: Wordpress, Contentful, Butter CMS, Adobe Experience Manager, Drupal,
-      Shopify, Magento, Mailchimp, Sendgrid, HubSpot, Unbounce
+  - title: Marketing and Content
+    content: Our team is extremely well versed in a range of major digital systems
+      for marketing and content publication. From major CMS tools such as AEM, Contentful
+      or Wordpress to Mailchimp or HubSpot, we understand the tools you use throughout
+      your customers journey.
   - title: Software Development
-    content: ReactNative, ReactJS, AngularJS, NodeJS, Java Spring, Bootstrap, Material,
-      Gatsby, Symfony, Laravel, Zend, Javascript, Swift, Java, C#, Python, Ruby on
-      Rails, SQL, HTML/CSS, SCSS, Construct 3, Unity
+    content: We are experts in custom software development using a wide range of development
+      languages and frameworks. Whether you are a ReactJS or Angular, C# or Java -
+      we have experienced developers ready to deliver quality software for you.
   - title: Platforms and Integration
-    content: Amazon Web Services, Azure, Google Cloud, Mule ESB, ActiveMQ
+    content: Our System Architects and DevOps team understand how to bring software
+      to your customers. We have years of experience in environments such as Amazon
+      Web Services, Azure and Google Cloud as well as enterprise tooling in Mule ESB
+      and ActiveMQ to name just a few.
   - title: Data
-    content: MySQL, Aurora, PostgreSQL, Oracle, SQL Server, MongoDB, DynamoDB, Solr,
-      ElasticSearch, Redis
+    content: |2-
+
+      We know data. We understand how to build for the leading databases such as MySQL, Aurora, PostgreSQL, Oracle amd SQL Server. Our architects and developers are well versed in alternate storage systems as well such as MongoDB, DynamoDB, Solr, ElasticSearch and Redis.
 - type: testimonialsblock
   template: testimonialsblock
   title: Testimonials
