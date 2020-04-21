@@ -17,7 +17,7 @@ sections:
 
     We have built marketing websites, web applications, games and mobile apps reaching millions of people worldwide.
 
-    When can we  about you?
+    When can we [chat](/contact) about you?
 - type: portfolioblock
   template: portfolioblock
   title: Our Customers
