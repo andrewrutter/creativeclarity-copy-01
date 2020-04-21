@@ -34,7 +34,7 @@ sections:
   title: What We Do
   section_id: services
   component: ServicesBlock
-  subtitle: We are more than just websites
+  subtitle: Digital is a broad reaching domain which we understand inside and out
   serviceslist:
   - title: Marketing and Content
     content: Our team is extremely well versed in a range of major digital systems
