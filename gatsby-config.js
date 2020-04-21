@@ -43,6 +43,18 @@ module.exports = {
                 pageContextProperty: `menus`,
                 menus: require('./src/data/menus.json'),
             }
+        },
+        {
+        resolve: `gatsby-plugin-manifest`,
+        options: {
+          name: `Creative Clarity`,
+          short_name: `Creative Clarity`,
+          start_url: `/`,
+          background_color: `#f7f0eb`,
+          theme_color: `#a2466c`,
+          display: `standalone`,
+          icon: `static/images/logo-dark.png`
         }
+      }
     ]
 };
