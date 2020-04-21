@@ -18,17 +18,6 @@ sections:
     We have built marketing websites, web applications, games and mobile apps reaching millions of people worldwide.
 
     When can we [chat](/contact) about you?
-- type: portfolioblock
-  template: portfolioblock
-  title: Our Customers
-  section_id: customers
-  component: PortfolioBlock
-  subtitle: We have been fortunate to work with some awesome customers both in the
-    US and around the world
-  layout_style: tiles
-  num_projects_displayed: 6
-  view_all_text: View All
-  view_all_url: portfolio/index.html
 - type: servicesblock
   template: servicesblock
   title: What We Do
@@ -55,6 +44,17 @@ sections:
     content: |2-
 
       We know data. We understand how to build for the leading databases such as MySQL, Aurora, PostgreSQL, Oracle amd SQL Server. Our architects and developers are well versed in alternate storage systems as well such as MongoDB, DynamoDB, Solr, ElasticSearch and Redis.
+- type: portfolioblock
+  template: portfolioblock
+  title: Our Customers
+  section_id: customers
+  component: PortfolioBlock
+  subtitle: We have been fortunate to work with some awesome customers both in the
+    US and around the world
+  layout_style: tiles
+  num_projects_displayed: 6
+  view_all_text: View All
+  view_all_url: portfolio/index.html
 - type: testimonialsblock
   template: testimonialsblock
   title: Testimonials
