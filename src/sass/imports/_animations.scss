@@ -8,6 +8,7 @@
     -webkit-transform: translateY(-20px);
     transform: translateY(-20px);
   }
+
   to {
     opacity: 1;
     -webkit-transform: translateY(0);
@@ -20,6 +21,7 @@
     -webkit-transform: translateY(-20px);
     transform: translateY(-20px);
   }
+
   to {
     opacity: 1;
     -webkit-transform: translateY(0);
@@ -28,10 +30,44 @@
 }
 
 .site-content {
-  -webkit-animation-duration: .7s;
-  animation-duration: .7s;
+  -webkit-animation-duration: 0.7s;
+  animation-duration: 0.7s;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
   -webkit-animation-name: fadeInDown;
   animation-name: fadeInDown;
+}
+
+@keyframes spin {
+  from {
+    transform: rotateY(0deg);
+    moz-transform: rotateY(0deg); //Firefox
+    ms-transform: rotateY(0deg); //Microsoft Browsers
+  }
+
+  to {
+    transform: rotateY(360deg);
+    moz-transform: rotateY(360deg); //Firefox
+    ms-transform: rotateY(360deg); //Microsoft Browsers
+  }
+}
+@-webkit-keyframes spin {
+  from {
+    -webkit-transform: rotateY(0deg);
+  }
+
+  to {
+    -webkit-transform: rotateY(360deg);
+  }
+}
+
+.imageSpin {
+  animation-name: spin;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  animation-duration: 5s;
+  -webkit-animation-name: spin;
+  -webkit-animation-timing-function: linear;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-duration: 5s;
 }
