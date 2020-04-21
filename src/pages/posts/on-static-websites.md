@@ -2,10 +2,11 @@
 template: post
 title: On static websites
 subtitle: ''
-date: 2020-04-15T00:00:00-04:00
-thumb_img_path: ''
-content_img_path: ''
-excerpt: ''
+date: 2020-04-15T04:00:00.000+00:00
+thumb_img_path: "/images/server-room.jpg"
+content_img_path: "/images/server-room-1.jpg"
+excerpt: The first in a series of posts related to technology trends discusses the
+  benefits for statically built websites
 
 ---
 There are few people who do not at least recognize the name Wordpress. Released in 2003, it  became the benchmark for open source content management powering innumerable blogs and corporate websites.  Architecturally, it follows a standard pattern of a web server running the Wordpress core code and extensions behind which sits a database housing the content.  
