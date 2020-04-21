@@ -10,10 +10,10 @@ export default class PortfolioBlock extends React.Component {
         let post_len = _.size(recent_projects);
         return (
             <section id={_.get(this.props, 'section.section_id')} className="portfolio-block block outer">
-              <div className="inner">
+              <div className="inner-small">
                 <div className="block-header">
                   <h2 className="block-title line-top">{_.get(this.props, 'section.title')}</h2>
-                  {_.get(this.props, 'section.subtitle') && 
+                  {_.get(this.props, 'section.subtitle') &&
                   <p className="block-subtitle">
                     {htmlToReact(_.get(this.props, 'section.subtitle'))}
                   </p>
@@ -24,18 +24,18 @@ export default class PortfolioBlock extends React.Component {
                     {
                     _.map(recent_projects, (post, post_idx) => (
                     <article key={post_idx} className="post project">
-                      {(post_idx === post_len - 1) ? 
+                      {(post_idx === post_len - 1) ?
                       <Link to={_.get(this.props, 'section.view_all_url')} className="post-link">
-                        {_.get(post, 'frontmatter.thumb_img_path') && 
+                        {_.get(post, 'frontmatter.thumb_img_path') &&
                         <div className="post-thumbnail">
                           <img className="thumbnail" src={safePrefix(_.get(post, 'frontmatter.thumb_img_path'))} alt={_.get(post, 'frontmatter.title')} />
                         </div>
                         }
                         <span className="view-all">{_.get(this.props, 'section.view_all_text') || 'View All'}</span>
                       </Link>
-                       : 
+                       :
                       <Link to={safePrefix(_.get(post, 'url'))} className="post-link">
-                        {_.get(post, 'frontmatter.thumb_img_path') && 
+                        {_.get(post, 'frontmatter.thumb_img_path') &&
                         <div className="post-thumbnail">
                           <img className="thumbnail" src={safePrefix(_.get(post, 'frontmatter.thumb_img_path'))} alt={_.get(post, 'frontmatter.title')} />
                         </div>
