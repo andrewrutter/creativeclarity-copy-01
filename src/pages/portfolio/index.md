@@ -5,7 +5,7 @@ subtitle: Over the past decade, we have been lucky to have worked with some of t
 layout_style: tiles
 menus:
   main:
-    title: Portfolio
+    title: Customers
     weight: 2
 template: portfolio
 
