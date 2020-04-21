@@ -1,5 +1,5 @@
 ---
-title: Elf On The Shelf
+title: Elf on the Shelf
 subtitle: Digital Implementation
 date: 2019-01-16T05:00:00.000+00:00
 thumb_img_path: "/images/eots-transparent.png"
