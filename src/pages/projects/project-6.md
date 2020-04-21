@@ -1,5 +1,5 @@
 ---
-title: TAG
+title: TAG Heuer
 subtitle: ''
 date: 2018-12-18
 thumb_img_path: "/images/tag-transparent.png"
@@ -7,9 +7,7 @@ content_img_path: "/images/tag-transparent.png"
 template: project
 
 ---
-# Tag Heuer
-
-Team augmentation roles for the initial TAG Connected product launch.
+We were heavily involved in the development of both the marketing website and backend web application for the first TAG Connected product launch.
 
 ## Services Provided
 
