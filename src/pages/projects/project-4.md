@@ -7,7 +7,7 @@ content_img_path: "/images/ihg-transparent.png"
 template: project
 
 ---
-# InterContinental Hotels Group
+As a partner for InterContinental Hotels Group we are fortunate to work on some amazing web applications to better serve their guests.
 
 ## Services Provided
 
