@@ -42,11 +42,10 @@ sections:
       or Wordpress to Mailchimp or HubSpot, we understand the tools you use throughout
       your customers journey.
   - title: Software Development
-    content: We are experts in custom software development using a wide range of development
-      languages and frameworks. Whether you are using ReactJS or Angular, C# or Java
-      - we have experienced developers ready to deliver quality software for you.
-      Our architects have decades of experience to help guide those choices for new
-      projects.
+    content: We are experts in a wide range of development languages and frameworks.
+      Whether you are using ReactJS or Angular, C# or Java - we have experienced developers
+      ready to deliver quality software for you. Our architects have decades of experience
+      to help guide those choices for new projects.
   - title: Platforms and Integration
     content: Our System Architects and DevOps team understand how to bring software
       to your customers. We have years of experience in environments such as Amazon
