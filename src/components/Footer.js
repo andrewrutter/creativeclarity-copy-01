@@ -15,12 +15,12 @@ export default class Footer extends React.Component {
           {_.get(this.props, 'pageContext.site.siteMetadata.footer.has_social') && <Social {...this.props}/>}
         </div>
       </div>
-      <div class="inner site-info">
-        <div class="site-footer-inside">
-          <p class="">11770 Haynes Bridge Rd, Ste 205-508 Alpharetta, GA 30009<br/>
+      <div className="inner site-info">
+        <div className="site-footer-inside">
+          <p className="">11770 Haynes Bridge Rd, Ste 205-508 Alpharetta, GA 30009<br/>
               <a href="tel:8332703304">(833) 270-3304</a>
             </p>
-            <ul class="social-links">
+            <ul className="social-links">
               <li>&copy;2020 All Rights Reserved.</li>
             </ul>
           </div>

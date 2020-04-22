@@ -18,13 +18,13 @@ export default class Post extends React.Component {
                       <time className="published"
                         dateTime={moment(_.get(this.props, 'pageContext.frontmatter.date')).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(this.props, 'pageContext.frontmatter.date')).strftime('%B %d, %Y')}</time>
                     </div>
-                    {_.get(this.props, 'pageContext.frontmatter.subtitle') && 
+                    {_.get(this.props, 'pageContext.frontmatter.subtitle') &&
                     <div className="post-subtitle">
                       {htmlToReact(_.get(this.props, 'pageContext.frontmatter.subtitle'))}
                     </div>
                     }
                   </header>
-                  {_.get(this.props, 'pageContext.frontmatter.content_img_path') && 
+                  {_.get(this.props, 'pageContext.frontmatter.content_img_path') &&
                   <div className="post-thumbnail">
                     <img src={safePrefix(_.get(this.props, 'pageContext.frontmatter.content_img_path'))} alt={_.get(this.props, 'pageContext.frontmatter.title')} />
                   </div>
@@ -32,6 +32,7 @@ export default class Post extends React.Component {
                   <div className="post-content inner-small">
                     {htmlToReact(_.get(this.props, 'pageContext.html'))}
                   </div>
+                  <div className="sharethis-inline-share-buttons"></div>
                 </article>
               </div>
             </div>
