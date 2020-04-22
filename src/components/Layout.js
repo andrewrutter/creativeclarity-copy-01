@@ -12,6 +12,7 @@ export default class Body extends React.Component {
             <React.Fragment>
                 <Helmet>
                     <title>{_.get(this.props, 'pageContext.frontmatter.title') && _.get(this.props, 'pageContext.frontmatter.title') + ' - '}{_.get(this.props, 'pageContext.site.siteMetadata.title')}</title>
+                    <meta property="og:image" content="https://www.creativeclaritycreations.com/icons/icon-512x512.png" />
                     <meta charSet="utf-8"/>
                     <meta name="viewport" content="width=device-width, initialScale=1.0" />
                     <meta name="google" content="notranslate" />
