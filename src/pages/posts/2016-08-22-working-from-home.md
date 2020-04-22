@@ -1,6 +1,6 @@
 ---
 title: How to be productive working from home
-date: 2020-04-20T14:32:07-04:00
+date: 2020-04-20T18:32:07.000+00:00
 thumb_img_path: images/9.jpg
 content_img_path: images/9.jpg
 excerpt: Many people around the globe are now finding themselves working remotely
@@ -16,8 +16,8 @@ Many people around the globe are now finding themselves working remotely which c
 
 It is essential that teams find ways to communicate efficiently when distanced. Video conferencing platforms such as WebEx and Zoom have supporting features which make this a breeze. That said, it is worth making an investment in a high quality microphone and speaker system for you laptop. Some popular options in this category include
 
-* Apple Air Pods
-* Blue USB microphones
+* [Apple Air Pods](https://amzn.to/2yEjEfR)
+* [Blue USB microphones](https://amzn.to/2VrSOAx)
 
 ## Collaboration
 
