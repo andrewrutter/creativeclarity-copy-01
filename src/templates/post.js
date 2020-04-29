@@ -56,7 +56,6 @@ import {
 
 export default class Post extends React.Component {
     render() {
-      console.log(this.props)
         const shareUrl = _.get(this.props, 'location.href');
         const title = _.get(this.props, 'pageContext.frontmatter.title');
         const shareImage = _.get(this.props, 'pageContext.frontmatter.content_img_path');
