@@ -59,7 +59,7 @@ export default class Post extends React.Component {
       console.log(this.props)
         const shareUrl = _.get(this.props, 'location.href');
         const title = _.get(this.props, 'pageContext.frontmatter.title');
-        const exampleImage = _.get(this.props, 'pageContext.frontmatter.content_img_path');
+        const shareImage = _.get(this.props, 'pageContext.frontmatter.content_img_path');
         return (
             <Layout {...this.props}>
               <Helmet>
@@ -164,8 +164,8 @@ export default class Post extends React.Component {
 
                     <div className="social-wrapper">
                       <PinterestShareButton
-                        url={String(window.location)}
-                        media={`${String(window.location)}/${exampleImage}`}
+                        url={shareUrl}
+                        media={shareImage}
                         className="social-wrapper__share-button"
                       >
                         <PinterestIcon size={32} round />
