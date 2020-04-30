@@ -9,7 +9,7 @@ sections:
   content: |-
     ![](/images/logo-1.png "Creative Clarity Logo")
 
-    We a software services company headquartered in Atlanta, GA.
+    We are a software services company headquartered in Atlanta, GA.
 
     We are experts in the delivery of custom web and mobile applications for companies of all sizes, from startups to Fortune 500.
 
