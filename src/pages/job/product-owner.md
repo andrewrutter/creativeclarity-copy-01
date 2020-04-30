@@ -30,7 +30,7 @@ We are seeking a strong software Product Owner to work with our dream team envir
 
 In addition, the candidate will ideally work closely or assume some responsibility for
 
-* Ensure that the team always has an adequate amount of prior prepared tasks to work on
+* Ensure that the team has an adequate amount of prior prepared tasks to work on
 * Take lead of scrum teams as the Product Owner
 * Keep abreast with Agile/Scrum best practices and new trends
 
