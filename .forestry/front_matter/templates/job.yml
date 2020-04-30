@@ -62,3 +62,4 @@ fields:
     required: true
 pages:
 - src/pages/job/product-owner.md
+- src/pages/job/product-owner.md
