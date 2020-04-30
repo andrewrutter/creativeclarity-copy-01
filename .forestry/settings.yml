@@ -55,6 +55,13 @@ sections:
   templates:
   - post
 - type: directory
+  path: src/pages/job
+  label: Jobs
+  create: all
+  match: "**/*"
+  templates:
+  - job
+- type: directory
   path: src/pages/projects
   label: Project
   create: all
