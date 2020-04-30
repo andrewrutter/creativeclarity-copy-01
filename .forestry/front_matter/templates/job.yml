@@ -61,5 +61,6 @@ fields:
   config:
     required: true
 pages:
+- src/pages/job/full-stack-javascript-developers.md
 - src/pages/job/product-owner.md
 - src/pages/job/product-owner.md
