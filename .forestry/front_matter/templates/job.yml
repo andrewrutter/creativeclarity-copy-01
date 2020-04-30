@@ -12,6 +12,29 @@ fields:
   name: subtitle
   label: Subtitle
   description: The text shown just below the job title.
+- name: term
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Full Time
+    - Contract
+    - Contract to Hire
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Term
+  description: What are the employment terms
+- name: salary
+  type: text
+  config:
+    required: false
+  label: Salary
+  description: What is the salary for this role
+  default: Negotiable
 - type: datetime
   name: date
   label: Date
