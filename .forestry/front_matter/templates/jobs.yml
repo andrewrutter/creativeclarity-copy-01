@@ -1,0 +1,19 @@
+---
+label: Jobs
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: Title
+  description: The title of the page.
+  config:
+    required: true
+- type: text
+  name: template
+  label: Template
+  hidden: true
+  default: jobs
+  config:
+    required: true
+pages:
+- src/pages/jobs/index.md
