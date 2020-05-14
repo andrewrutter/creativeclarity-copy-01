@@ -54,7 +54,7 @@ sections:
   layout_style: tiles
   num_projects_displayed: 6
   view_all_text: View All
-  view_all_url: portfolio/index.html
+  view_all_url: portfolio
 - type: testimonialsblock
   template: testimonialsblock
   title: Testimonials
