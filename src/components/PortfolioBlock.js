@@ -1,5 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
+import Zoom from 'react-reveal/Zoom';
 
 import {htmlToReact, getPages, Link, safePrefix} from '../utils';
 
@@ -23,29 +24,31 @@ export default class PortfolioBlock extends React.Component {
                   <div className={'portfolio-feed layout-' + _.get(this.props, 'section.layout_style')}>
                     {
                     _.map(recent_projects, (post, post_idx) => (
-                    <article key={post_idx} className="post project">
-                      {(post_idx === post_len - 1) ?
-                      <Link to={_.get(this.props, 'section.view_all_url')} className="post-link">
-                        {_.get(post, 'frontmatter.thumb_img_path') &&
-                        <div className="post-thumbnail">
-                          <img className="thumbnail" src={safePrefix(_.get(post, 'frontmatter.thumb_img_path'))} alt={_.get(post, 'frontmatter.title')} />
-                        </div>
+                      <Zoom>
+                      <article key={post_idx} className="post project">
+                        {(post_idx === post_len - 1) ?
+                        <Link to={_.get(this.props, 'section.view_all_url')} className="post-link">
+                          {_.get(post, 'frontmatter.thumb_img_path') &&
+                          <div className="post-thumbnail">
+                            <img className="thumbnail" src={safePrefix(_.get(post, 'frontmatter.thumb_img_path'))} alt={_.get(post, 'frontmatter.title')} />
+                          </div>
+                          }
+                          <span className="view-all">{_.get(this.props, 'section.view_all_text') || 'View All'}</span>
+                        </Link>
+                         :
+                        <Link to={safePrefix(_.get(post, 'url'))} className="post-link">
+                          {_.get(post, 'frontmatter.thumb_img_path') &&
+                          <div className="post-thumbnail">
+                            <img className="thumbnail" src={safePrefix(_.get(post, 'frontmatter.thumb_img_path'))} alt={_.get(post, 'frontmatter.title')} />
+                          </div>
+                          }
+                          <header className="post-header">
+                            <h3 className="post-title">{_.get(post, 'frontmatter.title')}</h3>
+                          </header>
+                        </Link>
                         }
-                        <span className="view-all">{_.get(this.props, 'section.view_all_text') || 'View All'}</span>
-                      </Link>
-                       :
-                      <Link to={safePrefix(_.get(post, 'url'))} className="post-link">
-                        {_.get(post, 'frontmatter.thumb_img_path') &&
-                        <div className="post-thumbnail">
-                          <img className="thumbnail" src={safePrefix(_.get(post, 'frontmatter.thumb_img_path'))} alt={_.get(post, 'frontmatter.title')} />
-                        </div>
-                        }
-                        <header className="post-header">
-                          <h3 className="post-title">{_.get(post, 'frontmatter.title')}</h3>
-                        </header>
-                      </Link>
-                      }
-                    </article>
+                      </article>
+                    </Zoom>
                     ))}
                   </div>
                 </div>
