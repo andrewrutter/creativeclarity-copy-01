@@ -41,9 +41,10 @@ sections:
       Web Services, Azure and Google Cloud as well as enterprise tooling in Mule ESB
       and ActiveMQ to name just a few.
   - title: Data
-    content: |2-
-
-      We know data. We understand how to build for the leading databases such as MySQL, Aurora, PostgreSQL, Oracle amd SQL Server. Our architects and developers are well versed in alternate storage systems as well such as MongoDB, DynamoDB, Solr, ElasticSearch and Redis.
+    content: We know data. We understand how to build for the leading databases such
+      as MySQL, Aurora, PostgreSQL, Oracle and SQL Server. Our architects and developers
+      are well versed in alternate storage systems as well such as MongoDB, DynamoDB,
+      Solr, ElasticSearch and Redis.
 - type: portfolioblock
   template: portfolioblock
   title: Our Customers
