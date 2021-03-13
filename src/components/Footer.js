@@ -10,7 +10,9 @@ export default class Footer extends React.Component {
       <div className="inner">
         <div className="site-footer-inside">
           <p>
-            Creative Clarity Inc
+            <Link to="https://www.bbb.org/us/ga/milton/profile/computer-software-developers/creative-clarity-inc-0443-27924878" target="_blank" rel="noopener">
+              <img className="bbb" src="/images/bbb.png"></img>
+            </Link>
           </p>
           {_.get(this.props, 'pageContext.site.siteMetadata.footer.has_social') && <Social {...this.props}/>}
         </div>
