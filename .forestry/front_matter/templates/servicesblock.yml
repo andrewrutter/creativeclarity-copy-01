@@ -27,7 +27,7 @@ fields:
   fields:
   - type: text
     name: title
-    label: Title
+    label: Services Title
     description: The title of the service.
   - type: textarea
     name: content
